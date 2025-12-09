@@ -12,7 +12,7 @@ int main()
     printf("Enter value of Y:");
     scanf("%d",&y);
 
-    printf("Ans of Multiplication: %d",Multiply(x,y));
+    printf("Multiplication: %d",Multiply(x,y));
 
     return 0;
 
