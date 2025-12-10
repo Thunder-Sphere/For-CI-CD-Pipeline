@@ -14,6 +14,8 @@ int main()
 
     printf("Multiplication: %d",Multiply(x,y));
 
+    printf("\n");
+    
     return 0;
 
 }
