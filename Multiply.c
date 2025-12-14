@@ -6,7 +6,7 @@ int main()
 {
     int x, y;
 
-    print("Enter value of X:");
+    printf("Enter value of X:");
     scanf("%d",&x);
 
     printf("Enter value of Y:");
